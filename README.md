@@ -1,11 +1,11 @@
 ## 注意：
 
-已自动导入Vue、Vue-router组合式API和Element-plus组件库，直接使用即可~~
+已自动导入Vue、Vue-router组合式API和Vant组件库，直接使用即可~~
 
 ## 安装步骤
 
 ```tex
-git clone https://github.com/webTwelve/vue3base.git      // 把模板下载到本地
+git clone https://github.com/webTwelve/vue3h5base.git      // 把模板下载到本地
 npm install -g yarn
 yarn       // 安装项目依赖，等待安装完成之后，安装失败可用 cnpm 或 npm
 
